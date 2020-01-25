@@ -1,18 +1,22 @@
 # Python for Banking Finance
 
 ## Objective
+
 	- Understand how we can use Python in Finance
 	- Understand how to do basic coding with Python
 	- Understand how to apply Python in financial use cases
 
 ## Time
+
 	- Total 6 courses, each 30 minutes
 
 ## Format
+
 	- What’s the finance problem?
 	- How can Python solve the problem?
 
 ## Outline
+
 	- Why Python for Finance
 		○ Finance overview
 		○ Zen of Python
