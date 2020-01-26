@@ -23,26 +23,26 @@
   - Zen of Python
   - Python IDE
   - Hello World
-- Python Basics for BSM algorithm
-  - BSM
-  - Data Types
-  - Condition
-  - Loop
+- Python for finance algorithm
+  - Option Pricing Model
+  - Variables and Data Types
+  - Condition and Loop
   - Function
-- Python Advanced for Excel processing
-  - Reading Excel
   - Data Structures
   - Class and Object
   - Package and Module
-- Python of Data Analytics for stock data
-  - Stock Data Overview
+- Python for Excel processing
+  - Reading Excel
+  - Pandas
+- Python for stock data analysis
+  - Stock Data
   - Data Visualization
   - Data Analytics
-- Python of Data Science for quant trading
+- Python for quant trading
   - Quant Trading
-  - Machine Learning Basics
-  - Scikit-Learn for Prediction 
-- Python of Deep Learning for roboadvisor
+  - Machine Learning Overview
+  - Scikit-Learn for Prediction
+- Python for roboadvisor
   - Robo Advisor for Wealth Management
-  - Deep Learning Basics
+  - Deep Learning Overview
   - NLP for Chatbot
