@@ -12,8 +12,13 @@
 
 ## Format
 
-- What’s the finance problem?
-- How can Python solve the problem?
+**Course Topic**
+
+- Question: What’s the finance problem? How can Python solve the problem?
+- Topics 1, 2, 3, ..., n
+- Recap
+- Excercise
+- Next Step
 
 ## Outline
 
@@ -31,7 +36,7 @@
   - Class and Object
   - Package and Module
 - Python for financial time series analysis
-  - Reading Excel
+  - Reading csv
   - Pandas
 - Python for market evaluation analytics
   - Stock Data
