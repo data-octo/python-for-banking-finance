@@ -2,8 +2,8 @@
 
 ## Objective
 
-- Understand how we can use Python in Finance
-- Understand how to do basic coding with Python
+- Understand Python use cases in Finance
+- Understand Python coding
 - Understand how to apply Python in financial use cases
 
 ## Time
@@ -28,7 +28,6 @@
   - Variables and Data Types
   - Condition and Loop
   - Function
-  - Data Structures
   - Class and Object
   - Package and Module
 - Python for Excel processing
