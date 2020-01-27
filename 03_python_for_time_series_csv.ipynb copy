@@ -13,7 +13,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "## Import Modules and Packages\n",
+    "## Necessary Imports\n",
     "\n",
     "Working with Python in general requires you to import certain modules/packages from the standard library or from the so-called scientific or PyData stack (i.e. from third parties)."
    ]
@@ -121,17 +121,6 @@
    ],
    "source": [
     "data.info()  "
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "## Working with the Data\n",
-    "\n",
-    "Let us inspect the first and final five rows of the data set."
    ]
   },
   {
@@ -456,16 +445,6 @@
    ],
    "source": [
     "data.tail()  "
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "## Data Visualization\n",
-    "\n"
    ]
   },
   {
@@ -3106,41 +3085,6 @@
    "source": [
     "tick_resam['Mid'].plot(figsize=(10, 6));\n",
     "# plt.savefig('../../images/ch08/fts_15.png');"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "## Recap\n",
-    "\n",
-    "In this module, you have learned:\n",
-    "\n",
-    "- how to retrieve stock price data with pandas (datareader)\n",
-    "- how to look up information about and data stored in a DataFrame object\n",
-    "- how to select columns and rows from a DataFrame object\n",
-    "- how to visulize data stored in a DataFrame object\n",
-    "- how to do vectorized calculations with DataFrame objects (log returns, moving average)\n",
-    "- What you have learned today builds the basis for many important use cases for Python in Finance."
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "## Exercises\n",
-    "\n",
-    "In order to master the material of this module, do the following:\n",
-    "\n",
-    "replace Apple by another symbol, eg. MSFT.O or .SPX\n",
-    "read the 10 Minutes to pandas tutorial under http://pandas.pydata.org/pandas-docs/stable/10min.html\n",
-    "discover plotting options under http://pandas.pydata.org/pandas-docs/stable/visualization.html\n",
-    "calculate other statics with e.g. .rolling(window=X).std() or .rolling(window=X).max()\n",
-    "discover more computational tools of pandas under http://pandas.pydata.org/pandas-docs/stable/computation.html"
    ]
   }
  ],

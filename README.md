@@ -30,18 +30,15 @@
   - Function
   - Class and Object
   - Package and Module
-- Python for Excel processing
+- Python for financial time series analysis
   - Reading Excel
   - Pandas
-- Python for stock data analysis
+- Python for market evaluation analytics
   - Stock Data
   - Data Visualization
   - Data Analytics
-- Python for quant trading
+- Python for machine learning
   - Quant Trading
   - Machine Learning Overview
   - Scikit-Learn for Prediction
-- Python for roboadvisor
-  - Robo Advisor for Wealth Management
-  - Deep Learning Overview
-  - NLP for Chatbot
+- Python for trading strategies
